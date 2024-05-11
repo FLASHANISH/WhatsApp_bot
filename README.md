@@ -27,7 +27,7 @@
 
 <p align="center">
 
-<a href="https://whatsapp.com/channel/0029VaImo5ZG3R3qjKOdyr1I"><img src="https://img.shields.io/badge/follow channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://whatsapp.com/channel/0029VaAWr3x5PO0y7qLfcR26"><img src="https://img.shields.io/badge/follow channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 </p>
 
